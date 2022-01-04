@@ -1,0 +1,10 @@
+O projeto foi executado em uma máquina com sistema operacional Linux Ubunto 20.4
+
+Bibliotecas necessarias:
+
+sudo pip install SpeechRecognition pydub
+sudo apt install ffmpeg
+sudo pip install nltk
+sudo pip install unidecode
+sudo pip install pandas
+sudo pip instal sklearn
